@@ -7,6 +7,10 @@ A cool graphite dark theme with a soft violet accent, made for long coding-agent
 - Low-glare 16-color terminal palette; every text color meets WCAG AA (4.5:1) on its background
 - Matching editor, syntax and diff colors
 
+![Hakan theme preview](screenshots/preview.png)
+
+<sub>Preview rendered from the theme's own colors.</sub>
+
 ## Install
 
 1. Download [`hakan.json`](hakan.json).
